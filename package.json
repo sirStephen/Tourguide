@@ -1,0 +1,14 @@
+{
+  "name": "xtours",
+  "version": "1.0.0",
+  "description": "landing page for xtours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass assets/sass/main.scss assets/css/style.css -w"
+  },
+  "author": "Gregory",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.8.3"
+  }
+}
